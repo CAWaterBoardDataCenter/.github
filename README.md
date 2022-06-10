@@ -16,3 +16,4 @@ Also, this is open to discussion.
 7. Default Account permissions for WaterBoard members and outside collaborators
 8. Justification for creation of Repos
 9. Actions to be taken after the creation of repos.
+10. A code of conduct possibily [this one](https://github.com/skills/.github/blob/main/CODE_OF_CONDUCT.md)
