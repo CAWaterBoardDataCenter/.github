@@ -23,7 +23,9 @@ Also, this is open to discussion.
 	d. Apache
 	e. BSD
 	f.other relevant licenses pre-approved for WB use? 
-7. Default Account permissions for WaterBoard members and outside collaborators
+7. Github account management, repo administration, 
+	a. Default Account permissions for WaterBoard members and outside collaborators
+	b. You can define which individuals or teams own certain types or areas of code in a CODEOWNERS file.
 8. Justification for creation of Repos
 9. Actions to be taken after the creation of repos.
 10. A code of conduct [possibily this one](https://github.com/skills/.github/blob/main/CODE_OF_CONDUCT.md)
@@ -32,4 +34,11 @@ Also, this is open to discussion.
 	b. [openscapes git clinic](https://openscapes.github.io/series/core-lessons/github/github-pub.html)
 	c. others?
 12. Contributing guidlines for internal/external collaborators [possibly this one](https://github.com/skills/.github/blob/main/CONTRIBUTING.md)
-13. 
+13. GitHub Wiki
+	a.  [NOAA NMFS's Openscapes org](https://github.com/nmfs-openscapes/.github/wiki) - the gathering place for NOAA open science use rather than the actual guidelines (e.g., see the different [licenses used](https://github.com/nmfs-openscapes/.github/wiki/05B-Licenses-for-government-work))
+	b. [Other guidelines - NOAA](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/github-account/)
+	c. We also have [open source guidelines](https://www.waterboards.ca.gov/resources/oima/cowi/open_source_code_handbook.html) from the college of water informatics which might be helpful.
+
+<!--
+
+-->
