@@ -16,11 +16,13 @@ Also, this is open to discussion.
 3. Data Governanace guiding pricipals
 4. Data Ethic documentation
 5. Github Managment roles & responsibilities
-6. Data use licenses
+6. Data use licenses [Open Sources Licenses](https://opensource.org/licenses)
 	a. Creative commons
 	b. MIT
 	c. atribution
-	d. other relevant licenses pre-approved for WB use
+	d. Apache
+	e. BSD
+	f.other relevant licenses pre-approved for WB use? 
 7. Default Account permissions for WaterBoard members and outside collaborators
 8. Justification for creation of Repos
 9. Actions to be taken after the creation of repos.
