@@ -8,6 +8,7 @@ Also, this is open to discussion.
 
 ### Things that might go in this readme or in this repo:
 1. Open data policy documentation
+	a. CHHS has a [Open Data Handbook](https://chhsdata.github.io/opendatahandbook/) we might considering forking or adopting in all or part.
 2. Water Data formats
 	a. Water Data Consortium's urban supplier data format
 	b. WaDE 2. 0 -- [The next version of the Water Data Exchange (WaDE) program. An agreed upon metadata standard and information system for sharing water budget data in the US. Water budgets data include site specific and aggregated water rights, water supplies, use, return flows, and transfers at geospatial areas.](https://github.com/WSWCWaterDataExchange/WaDE2.0)
