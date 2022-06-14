@@ -10,6 +10,7 @@ Also, this is open to discussion.
 	1. A code of conduct [possibily this one](https://github.com/skills/.github/blob/main/CODE_OF_CONDUCT.md)
 	2. Open data policy documentation
 		1. CHHS has a [Open Data Handbook](https://chhsdata.github.io/opendatahandbook/) we might considering forking or adopting in all or part. [Their githubpage](https://github.com/chhsdata/opendatahandbook)
+	3. [F(findable) A(accessible) I(interoperable) R(reusable)](https://www.go-fair.org/fair-principles/)
 2. Github account management, repo administration, 
 	1. Default Account permissions for WaterBoard members and outside collaborators
 	2. You can define which individuals or teams own certain types or areas of code in a CODEOWNERS file.
