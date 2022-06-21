@@ -11,6 +11,8 @@ We're excited to invite the public to poke around and engage with our growing co
 * Andrew Hill --  andrew.hill@waterboards.ca.gov
 
 ### Official communcation channel - [Water Board Data Community - Git and Github Channel](https://teams.microsoft.com/l/channel/19%3a240517a494aa4a719ee35938502f1349%40thread.skype/Git%2520and%2520GitHub?groupId=40b6b247-7217-4a6b-91fe-17b9ae0f4c6b&tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1)
+### If you aren't already a team member, [here is how to join](https://www.waterboards.ca.gov/resources/oima/cowi/data_communities.html):
+
 
 <!--
 
